@@ -1,3 +1,3 @@
 #!/bin/bash
-#yes
-curl -sL  "$1"
+# display body if 200
+curl -sLfG "$1"
