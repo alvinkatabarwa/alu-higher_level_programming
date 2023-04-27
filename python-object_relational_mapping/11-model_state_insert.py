@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 """
 Adds the State object "Lousiana" to the database hbtn_0e_6_usa
 """
